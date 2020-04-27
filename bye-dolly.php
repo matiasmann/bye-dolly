@@ -6,7 +6,7 @@
 /*
 Plugin Name: Bye Dolly
 Plugin URI: https://github.com/matiasmann/bye-dolly
-Description: This is not just a plugin, it symbolizes the NOT hope and NOT enthusiasm of an entire generation summed up in one word: <strong>Global Pandemic</strong>. When activated you will randomly see a quote from <cite>Rick and Morty</cite> in the upper right of your admin screen on every page. Think for yourself. The world needs you.
+Description: This is not just a plugin, it symbolizes the NOT hope and NOT enthusiasm of an entire generation summed up in one word: <strong>Global Pandemic</strong>. When activated you will randomly see a quote from <cite>Rick and Morty</cite> in the upper right of your admin screen on every page. Think for yourself. The world needs you more than ever.
 Author: Matias Mann
 Version: 1.0.1
 Author URI: https://github.com/matiasmann
