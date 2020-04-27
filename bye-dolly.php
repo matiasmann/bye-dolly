@@ -1,17 +1,15 @@
 <?php
 /**
- * @package Bye_Dolly
- * @version 1.0.1
- */
-/*
-Plugin Name: Bye Dolly
-Plugin URI: https://github.com/matiasmann/bye-dolly
-Description: This is not just a plugin, it symbolizes the NOT hope and NOT enthusiasm of an entire generation summed up in one word: <strong>Global Pandemic</strong>. When activated you will randomly see a quote from <cite>Rick and Morty</cite> in the upper right of your admin screen on every page. Think for yourself. The world needs you more than ever.
-Author: Matias Mann
-Version: 1.0.1
-Author URI: https://github.com/matiasmann
-
-Based on Hello Dolly by Matt Mullenweg
+ * Plugin Name:       Bye Dolly
+ * Plugin URI:        https://github.com/matiasmann/bye-dolly
+ * Description: This is not just a plugin, it symbolizes the NOT hope and NOT enthusiasm of an entire generation summed up in one word: <strong>Global Pandemic</strong>. When activated you will randomly see a quote from <cite>Rick and Morty</cite> in the upper right of your admin screen on every page. Think for yourself. The world needs you more than ever.
+ * Version:           1.0.1
+ * Requires at least: 4.6
+ * Author:            Matias Mann
+ * Author URI:        https://github.com/matiasmann
+ * License:           Unlicensed
+ * Text Domain:       bye-dolly
+ * Based on Hello Dolly by Matt Mullenweg
 */
 
 function bye_dolly_get_lyric() {
